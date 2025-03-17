@@ -53,4 +53,34 @@ wandb login
 ```
 
 
+## Running Experiments
+
+### Question 1: Dataset Visualization
+```bash
+jupyter notebook DLass1Q1.ipynb
+```
+### Question 2: Flexible Neural Network
+```bash
+jupyter notebook DLass1Q2.ipynb
+```
+### Question 3: Backpropagation and Optimizers
+```bash
+jupyter notebook DLass1Q3.ipynb
+```
+### Questions 4-6: Hyperparameter Sweeps with WandB
+```bash
+jupyter notebook DLass1Q4to6.ipynb
+```
+### Question 7: Confusion Matrix Visualization
+```bash
+jupyter notebook DLass1Q7.ipynb
+```
+### Question 8: Loss Function Comparison
+```bash
+jupyter notebook DLass1Q8.ipynb
+```
+### Question 10: MNIST Experiments
+```bash
+jupyter notebook DLass1Q10.ipynb
+```
 
