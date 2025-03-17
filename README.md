@@ -5,6 +5,15 @@ DA6401 Assignment 1: Neural Network Implementation for Fashion-MNIST Classificat
 Project Overview
 This repository contains the implementation of a flexible feedforward neural network trained and evaluated on the Fashion-MNIST dataset. Various optimization algorithms, hyperparameter tuning strategies, and visualizations using WandB are implemented.
 
+## Important Links
+
+- **Weights & Biases (WandB) Project Dashboard:**  
+[DA6401 Assignment 1 WandB Report](https://wandb.ai/subikksha-indian-institute-of-technology-madras/DA6401-Assignment-1/reports/DA6401-Assignment-1-Subikksha-DA24D004---VmlldzoxMTgxODg2Nw?accessToken=kn1n5y1dwof4g8c9uucoch4wejl8o85w0vlfwj75es98my1kweam9hh9irna31hy)
+
+- **GitHub Repository:**  
+[https://github.com/subikkshas/DA6401](https://github.com/subikkshas/DA6401)
+
+
 Repository Structure
 - [**`DLass1Q1.ipynb`**](https://github.com/subikkshas/DA6401/blob/main/DLass1Q1.ipynb): Dataset visualization and initial analysis.
 - [**`DLass1Q2.ipynb`**](https://github.com/subikkshas/DA6401/blob/main/DLass1Q2.ipynb): Flexible feedforward neural network architecture implementation.
@@ -20,5 +29,8 @@ Repository Structure
 - [**`Initializers.ipynb`**](https://github.com/subikkshas/DA6401/blob/main/Initializers.ipynb): Weight initialization methods.
 - [**`Layers.ipynb`**](https://github.com/subikkshas/DA6401/blob/main/Layers.ipynb): Neural network layers implementation.
 - [**`Network.ipynb`**](https://github.com/subikkshas/DA6401/blob/main/Network.ipynb): Neural network architecture definition.
+
+
+
 
 
