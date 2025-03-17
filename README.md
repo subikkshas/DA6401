@@ -40,19 +40,16 @@ git clone https://github.com/subikkshas/DA6401.git
 cd DA6401
 ```
 
-
-
-### Step 1: Clone the Repository
+### Step 2: Create Virtual Environment and Install Dependencies
 ```bash
-git clone https://github.com/subikkshas/DA6401.git
-cd DA6401
+python -m venv env
+source env/bin/activate  # On Windows use: env\Scripts\activate
+pip install -r requirements.txt
 ```
 
-
-### Step 1: Clone the Repository
+### Step 3: WandB Setup
 ```bash
-git clone https://github.com/subikkshas/DA6401.git
-cd DA6401
+wandb login
 ```
 
 
