@@ -27,7 +27,7 @@ Repository Structure
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/subikkshas/DA6401.git
-cd DA6401
+cd DA6401```
 
 ### Step 2: Create Virtual Environment and Install Dependencies
 -m venv env
