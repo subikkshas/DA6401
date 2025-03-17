@@ -1,5 +1,6 @@
 # DA6401
 DL Assignments
+
 DA6401 Assignment 1: Neural Network Implementation for Fashion-MNIST Classification
 Project Overview
 This repository contains the implementation of a flexible feedforward neural network trained and evaluated on the Fashion-MNIST dataset. Various optimization algorithms, hyperparameter tuning strategies, and visualizations using WandB are implemented.
@@ -20,3 +21,15 @@ Repository Structure
 - [**`Layers.ipynb`**](https://github.com/subikkshas/DA6401/blob/main/Layers.ipynb): Neural network layers implementation.
 - [**`Network.ipynb`**](https://github.com/subikkshas/DA6401/blob/main/Network.ipynb): Neural network architecture definition.
 
+
+## Setup Instructions
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/subikkshas/DA6401.git
+cd DA6401
+
+### Step 2: Create Virtual Environment and Install Dependencies
+-m venv env
+source env/bin/activate  # On Windows use: env\Scripts\activate
+pip install -r requirements.txt
