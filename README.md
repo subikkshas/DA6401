@@ -38,10 +38,7 @@ Repository Structure
 ```bash
 git clone https://github.com/subikkshas/DA6401.git
 cd DA6401
-python -m venv env
-source env/bin/activate  # On Windows use: env\Scripts\activate
-pip install -r requirements.txt
-wandb login
+
 
 
 
