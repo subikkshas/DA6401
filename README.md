@@ -38,7 +38,22 @@ Repository Structure
 ```bash
 git clone https://github.com/subikkshas/DA6401.git
 cd DA6401
+```
 
+
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/subikkshas/DA6401.git
+cd DA6401
+```
+
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/subikkshas/DA6401.git
+cd DA6401
+```
 
 
 
